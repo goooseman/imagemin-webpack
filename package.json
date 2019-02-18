@@ -80,7 +80,7 @@
     "remark-preset-lint-itgalaxy": "^13.0.0",
     "tempy": "^0.2.0",
     "url-loader": "^1.0.1",
-    "webpack": "^4.29.0"
+    "webpack": "^4.29.5"
   },
   "peerDependencies": {
     "webpack": "^4.0.0"
